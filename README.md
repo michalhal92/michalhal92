@@ -30,34 +30,6 @@ link GitHub: [https://github.com/michalhal92/coffee-store-sales]
 
 ---
 
-##  ❓ Projekty planowane
-
-
-### 1. 
-
----
-
-### 2. 
-
----
-
-### 3. 
-
----
-
-### 4. 
-
----
-
-### 5. 
-
----
-
-### 6. 
-
----
-
-
 ## ✅ Projekty ukończone
 
 ### 1. 
