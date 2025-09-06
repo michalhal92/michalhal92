@@ -7,13 +7,7 @@ To repozytorium prezentuje wybrane projekty z obszarów moich zainteresowań: **
 Każdy projekt zawiera analizę danych, wizualizacje i opis najważniejszych wniosków.
 
 Jeżeli masz ochotę dać mi opinie, uwagi, propozycje - zachęcam do kontaktu!
----
 
-## 🛠️ Technologie i narzędzia
-- **SQL** – łączenie, czyszczenie i przygotowanie danych
-- **Python** – Pandas, Numpy, Matplotlib, Seaborn
-- **Power BI / Tableau** – interaktywne dashboardy i raporty
-- **Excel** – prosta analiza i analiza statystyczna
 ---
 
 ## 🎯 Obecnie pracuję nad
