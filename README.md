@@ -16,7 +16,22 @@ Jeżeli masz ochotę dać mi opinie, uwagi, propozycje - zachęcam do kontaktu!
 - **Excel** – prosta analiza i analiza statystyczna
 ---
 
-## 📂 Projekty
+## 🎯 Obecnie pracuję nad
+
+### 1. Analiza sprzedaży w kawiarni
+
+Cel: analiza struktury sprzedaży (najpopularniejsze produkty, godziny, dni, rentowność, korelacje).
+
+Dane: otwarty dataset „Coffee shop sales” [www.kaggle.com/datasets/reignrichard/coffee-store-sales]
+
+Technologie: SQL, Python, Tableau / Power BI
+
+link GitHub: [https://github.com/michalhal92/coffee-store-sales]
+
+---
+
+##  ❓ Projekty planowane
+
 
 ### 1. 
 
@@ -27,6 +42,7 @@ Jeżeli masz ochotę dać mi opinie, uwagi, propozycje - zachęcam do kontaktu!
 ---
 
 ### 3. 
+
 ---
 
 ### 4. 
@@ -41,10 +57,17 @@ Jeżeli masz ochotę dać mi opinie, uwagi, propozycje - zachęcam do kontaktu!
 
 ---
 
+
+## ✅ Projekty ukończone
+
+### 1. 
+
+---
+
 ## 📫 Kontakt
-- **LinkedIn:** [www.linkedin.com/in/michalhalicki]   
+- **LinkedIn:** [linkedin.com/in/michalhalicki]   
 - **E-mail:** [michal.hal@outlook.com]  
-- **GitHub:** [https://github.com/michalhal92] 
+- **GitHub:** [github.com/michalhal92] 
 
 ---
 
