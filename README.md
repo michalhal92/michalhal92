@@ -3,7 +3,7 @@
 Witaj w moim portfolio!  
 Jestem początkującym **Analitykiem Danych**, który łączy narzędzia jak SQL, Pythona, narzędzia BI i analizę statystyczną, z chęcią do rozwiązywania problemów i ułatwiania ludziom życia.
 
-To repozytorium prezentuje wybrane projekty z obszarów moich zainteresowań: **sprzedaż, farmacja, ekonomia, bankowość, zdrowie** 
+To repozytorium prezentuje wybrane projekty z obszarów moich zainteresowań: **sprzedaż, farmacja, ekonomia, bankowość, zdrowie**.
 Każdy projekt zawiera analizę danych, wizualizacje i opis najważniejszych wniosków.
 
 Jeżeli masz ochotę dać mi opinie, uwagi, propozycje - zachęcam do kontaktu!
