@@ -31,9 +31,9 @@ link GitHub: [https://github.com/michalhal92/coffee-store-sales]
 ---
 
 ## 📫 Kontakt
-- **LinkedIn:** [linkedin.com/in/michalhalicki]   
+- **LinkedIn:** [www.linkedin.com/in/michalhalicki]   
 - **E-mail:** [michal.hal@outlook.com]  
-- **GitHub:** [github.com/michalhal92] 
+- **GitHub:** [www.github.com/michalhal92] 
 
 ---
 
