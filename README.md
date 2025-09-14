@@ -20,13 +20,25 @@ Dane: otwarty dataset „Coffee shop sales” [www.kaggle.com/datasets/reignrich
 
 Technologie: SQL, Python, Tableau / Power BI
 
+Wyniki: in progress
+
 link GitHub: [https://github.com/michalhal92/coffee-store-sales]
 
 ---
 
 ## ✅ Projekty ukończone
 
-### 1. 
+### 1. Kurs Analityk Danych od Practima
+
+Cel: Opanowanie narzędzi SQL, Python, Tableau w kontekście analizy danych i opanowanie procesu analizy dancyh krok po kroku.
+
+Technologie: Excel i analiza statystyczna, SQL, Python, Tableau
+
+Wyniki: "Uczestnik zdobył praktyczne umiejętności w zakresie analizy danych i wspierania procesów decyzyjnych w biznesie. Nauczył się korzystać z języka SQL do ekstrakcji i manipulacji danymi, stosować statystyczne miary opisu danych, analizować dane z wykorzystaniem języka Python i bibliotek takich jak Pandas, Matplotlib oraz Seaborn, a także tworzyć interaktywne dashboardy w Tableau. Na zakończenie kursu zrealizowano kompleksowy projekt analityczny z wykorzystaniem różnych technologii i narzędzi – od przetwarzania danych po ich wizualizację."
+
+Projekt końcowy to pierwszy pełny projekt analityczny który sam opracowałem.
+
+link GitHub: [https://github.com/michalhal92/kurs-analityka-danych]
 
 ---
 
